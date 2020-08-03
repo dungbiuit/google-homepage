@@ -2,4 +2,4 @@
 
 ## Google HomePage
 
-###This project is about practising HTML/CSS to create a Google Homepage. 
+### This project is about practising HTML/CSS to create a Google Homepage. 
