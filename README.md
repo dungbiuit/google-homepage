@@ -4,4 +4,4 @@
 
 ### This project is about practising HTML/CSS to create a Google Homepage. 
 
-## Access: dungbiuit.gituhb.io/google-homepage
+## Access: dungbiuit.github.io/google-homepage
